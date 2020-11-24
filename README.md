@@ -1,2 +1,2 @@
 # ibuome.github.io
-Data Analysis on Google playstore
+Simple Data Analysis on Google playstore
